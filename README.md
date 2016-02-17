@@ -43,8 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](something wrong with licecap i'm not sure but all my records are black screen, just see the mouse movement). Please check the apps instead: https://truc-blog.herokuapp.com/articles
-
+![Video Walkthrough](http://imgur.com/x2JPACe).
 ## Notes
 
 Describe any challenges encountered while building the app.
