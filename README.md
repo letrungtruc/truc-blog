@@ -1,11 +1,6 @@
 # Truc-s-repository
 # Pre-work - *Truc's blog*
 
-> HINT: Please
-> - include this README.md in your project and fill out the information.
-> - remove the `README.rdoc` file that Rails generates.
-> - remove all the HINT blocks in this file.
-
 **Truc's blog** is a Ruby on Rails blog application.
 
 Submitted by: **Truc Le**
@@ -23,9 +18,9 @@ The following **required** functionality is complete:
 * [x] User can create a new post, formatted using the Markdown language.
 * [x] User can edit an existing post.
 * [x] There is one post that introduces the App Creator with name, picture.
-* [ ] User can delete stories, with an alert that asks the user to confirm.
-* [ ] User see a search form on the Posts page.
-* [ ] User can submit a search term to find all posts bywith titles containing the search term.
+* [x] User can delete stories, with an alert that asks the user to confirm.
+* [x] User see a search form on the Posts page.
+* [x] User can submit a search term to find all posts bywith titles containing the search term.
 
 The following **optional** features are implemented:
 * [ ] There is a "navbar" that is responsive to window size similar to http://v4-alpha.getbootstrap.com/examples/navbar/.
@@ -43,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](something wrong with licecap i'm not sure but all my records are black screen, just see the mouse movement). Please check the apps instead: https://truc-blog.herokuapp.com/articles
+![Video Walkthrough]
 
 ## Notes
 
